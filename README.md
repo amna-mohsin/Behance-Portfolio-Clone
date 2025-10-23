@@ -47,7 +47,7 @@ No build tools or dependencies are required—pure HTML and CSS.
 
 Original Design Reference
 
-Behance Portfolio(https://www.behance.net/gallery/221200965/Portfolio-Website?tracking_source=search_projects|portfolio+website+template&l=494).
+[Behance Portfolio](https://www.behance.net/gallery/221200965/Portfolio-Website?tracking_source=search_projects|portfolio+website+template&l=494).
 
 ## Screenshots
 <img width="1261" height="630" alt="image" src="https://github.com/user-attachments/assets/17a7600d-c8fb-4088-8314-1ed5ef94bd9c" />
