@@ -36,12 +36,12 @@ Live demo available on [Netlify](https://behance-portfolio-clone.netlify.app/).
 
 ```bash
 git clone https://github.com/amna-mohsin/Behance-Portfolio-Clone.git
-
+ ```
 2. Navigate to the project folder:
 
 ```bash
 cd Behance-Portfolio-Clone
-
+ ```
 3.Open index.html in your browser.
 No build tools or dependencies are required—pure HTML and CSS.
 
@@ -53,13 +53,13 @@ Behance Portfolio(https://www.behance.net/gallery/221200965/Portfolio-Website?tr
 <img width="1261" height="630" alt="image" src="https://github.com/user-attachments/assets/17a7600d-c8fb-4088-8314-1ed5ef94bd9c" />
 
 
-Owner
+## Owner
 
-Developed by Amna Mohsin
-Connect on LinkedIn: https://www.linkedin.com/in/amna-m98/
+* Developed and maintained by **Amna Mohsin**
+* For collaborations or inquiries, connect on [LinkedIn](https://www.linkedin.com/in/amna-m98/)
 
 ## License
 
 This project is open-source and free to use.
 
-
+---
